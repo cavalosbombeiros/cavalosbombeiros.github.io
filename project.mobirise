@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site 2025-10-12 16:36",
+    "name": "Cavalos Bombeiros",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -43,6 +43,16 @@
         "url": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700"
       }
     ],
+    "favicon": "@PROJECT_PATH@/assets/images/cavalos-bombeiros-logo-design.png",
+    "mbrsiteDomain": "59pamipinm",
+    "imageResize": false,
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 8,
     "versionPublish": "5.9.18"
   },
@@ -51,7 +61,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Cavalos Bombeiros a Fire Prevention Strategy in Central Portugal. How grazing reduces fuel loads and creates natural firebreaks.\nThe page describes measurable benefits and how strategically placed grazing can reduce wildfire spread.\nThe team reports grazing coverage, techniques and monitoring practices.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
