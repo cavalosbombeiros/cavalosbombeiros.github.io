@@ -53,6 +53,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
+    "publishChangesOnly": true,
     "uniqCompNum": 9,
     "versionPublish": "5.9.18"
   },
