@@ -1619,7 +1619,7 @@ a {
   top: 0;
 }
 .cid-uZrxE1Cmnc .card-wrapper {
-  background: #ffffff;
+  background: #f40000;
   padding: 2.5rem;
 }
 @media (max-width: 992px) {
@@ -1634,4 +1634,11 @@ a {
 }
 .cid-uZrxE1Cmnc .row {
   justify-content: space-between;
+}
+.cid-uZrxE1Cmnc .mbr-cardtext,
+.cid-uZrxE1Cmnc .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-uZrxE1Cmnc .mbr-section-cardtitle {
+  color: #000000;
 }
