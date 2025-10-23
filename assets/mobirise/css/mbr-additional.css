@@ -1399,6 +1399,12 @@ a {
   text-align: center;
   color: #000000;
 }
+.cid-v0rf42xaOD {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #2e481a;
+  overflow: hidden;
+}
 .cid-uZqHMTQcnT {
   padding-top: 8rem;
   padding-bottom: 3rem;
@@ -2521,4 +2527,10 @@ a {
 }
 .cid-uZuDKgnFtK .mbr-section-title {
   color: #f40000;
+}
+.cid-v0rf42xaOD {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #2e481a;
+  overflow: hidden;
 }
